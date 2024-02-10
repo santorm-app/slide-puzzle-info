@@ -1,1 +1,0 @@
-# SANTORM Slide Puzzle
